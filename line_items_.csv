@@ -1,0 +1,21 @@
+﻿id;prop.-name;prop.-amount;deal_id
+1;Boas Vindas;499;7
+2;Cobrança;999;3
+3;Cobrança;999;3
+4;Boas Vindas;499;6
+5;Boas Vindas;499;5
+6;Falha Técnica;1299;6
+7;Cobrança;999;9
+8;Falha Técnica;1299;8
+9;Boas Vindas;499;9
+10;Boas Vindas;499;1
+11;Vendedor Online;1499;1
+12;Cobrança;999;9
+13;Boas Vindas;499;7
+14;Cobrança;999;4
+15;Falha Técnica;1299;6
+16;Vendedor Online;1499;6
+17;Boleto;699;5
+18;Falha Técnica;1299;4
+19;Vendedor Online;1499;7
+20;Cobrança;999;5
